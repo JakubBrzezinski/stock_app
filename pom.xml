@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>stock_app</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Simple application that prevents lack of Sacred Toilet Paper!</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -75,6 +75,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>stock_app</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
