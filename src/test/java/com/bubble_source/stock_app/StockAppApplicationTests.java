@@ -11,7 +11,6 @@ public class StockAppApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("IT WORKS");
 	}
 
 }
